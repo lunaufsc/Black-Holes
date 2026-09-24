@@ -24,7 +24,7 @@ Abaixo estão as quatro principais evidências que comprovaram a existência dos
 * **A Estrela S2:** Uma dessas estrelas, a S2, chamou a atenção por fazer uma órbita elíptica completa a cada 16 anos. No ponto mais próximo, ela passa raspando a mais de 7.000 km/s (cerca de 2,5% da velocidade da luz) em torno de um ponto escuro.
 * **A Conclusão:** Para segurar uma estrela tão rápida numa curva tão fechada, é necessário que uma massa equivalente a 4 milhões de sóis ($4.15 \times 10^6\,M_\odot$) esteja concentrada em um espaço minúsculo, menor que o nosso Sistema Solar. Nenhuma outra estrutura física conhecida (como aglomerados de estrelas mortas ou nuvens densas) conseguiria se manter estável nessa densidade sem ser um buraco negro supermassivo. Essa descoberta rendeu o Nobel de Física de 2020.
 
-![Diagrama orbital da estrela S2 ao redor de Sgr A*](figures/fig1_s2_orbit.jpg)
+![Diagrama orbital da estrela S2 ao redor de Sgr A*](figures/eso1825c.jpg)
 *Figura 1: Mapeamento orbital da estrela S2 em torno do centro invisível da galáxia (Fonte: ESO).*
 
 ---
@@ -34,7 +34,7 @@ Abaixo estão as quatro principais evidências que comprovaram a existência dos
 * **O Sinal (*Chirp*):** Conforme os dois buracos negros giravam um ao redor do outro antes de bater, a frequência e a força do sinal foram aumentando rapidamente até atingir um pico na hora da fusão, amortecendo logo em seguida conforme o buraco negro final se estabilizava.
 * **A Conclusão:** O formato exato da onda bateu com as previsões teóricas e permitiu calcular a massa dos dois corpos (cerca de 36 e 29 vezes a massa do Sol). Isso provou de forma direta que buracos negros binários existem e que colisões entre eles deformam o espaço-tempo.
 
-![Sinal de Ondas Gravitacionais GW150914 registrado pelos interferômetros de Hanford e Livingston](figures/fig2_ligo_gw150914.png)
+![Sinal de Ondas Gravitacionais GW150914 registrado pelos interferômetros de Hanford e Livingston](figures/GW150914_Strain-diagrams.png)
 *Figura 2: Sinal de deformação registrado pelos interferômetros do LIGO durante o evento GW150914 (Fonte: Caltech/MIT/LIGO Lab).*
 
 ---
@@ -44,7 +44,7 @@ Abaixo estão as quatro principais evidências que comprovaram a existência dos
 * **A Imagem:** A gravidade extrema distorce a trajetória da luz ao redor do buraco negro. Os fótons que chegam perto demais caem nele, deixando uma região central escura (a chamada "sombra" do buraco negro), cercada por um anel brilhante de gás superaquecido girando em velocidade relativística.
 * **As Descobertas:** Em 2019, o consórcio divulgou a primeira imagem da história de um buraco negro, no centro da galáxia **M87\*** (com 6,5 bilhões de massas solares). Em 2022, o mesmo anel brilhante com a sombra central foi fotografado para **Sagitário A\***, no coração da nossa própria galáxia.
 
-![Imagem da sombra do buraco negro M87*](figures/fig3_m87_eht.jpg)
+![Imagem da sombra do buraco negro M87*](figures/eso1907a.jpg)
 *Figura 3: Primeira imagem direta da sombra e do anel de emissão do buraco negro supermassivo M87* (Fonte: Event Horizon Telescope Collaboration).*
 
 ---
