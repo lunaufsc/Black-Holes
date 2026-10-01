@@ -30,9 +30,9 @@ O disco de acreção é extremamente turbulento devido à alta velocidade de tra
 
 ## Fontes
 
-- [Black Hole Basics - NASA Science. Disponível em:](https://science.nasa.gov/universe/black-holes/)
-- [O que é um buraco negro e qual a origem do nome - G1. Disponível em: ](https://g1.globo.com/ciencia/noticia/2023/11/01/o-que-e-um-buraco-negro-e-qual-a-origem-do-nome.ghtml)
-- [What is the Accretion Disk of aa Black Hole? - Scienceinsights. Disponível em: ](https://scienceinsights.org/what-is-the-accretion-disk-of-a-black-hole/)
-- [O que é um buraco negro? - National Geographic Brasil. Disponível em:](https://www.nationalgeographicbrasil.com/espaco/2024/07/o-que-e-um-buraco-negro)
-- [O que é a singularidade, o coração dos buracos negros onde todas as leis da natureza são quebradas - BBC News Brasil. Disponpivel em:](https://www.bbc.com/portuguese/geral-54462160)
-- [Event horizon - Britannica. Disponível em: ](https://www.britannica.com/topic/event-horizon-black-hole)
+- [Black Hole Basics - NASA Science.](https://science.nasa.gov/universe/black-holes/)
+- [O que é um buraco negro e qual a origem do nome - G1.](https://g1.globo.com/ciencia/noticia/2023/11/01/o-que-e-um-buraco-negro-e-qual-a-origem-do-nome.ghtml)
+- [What is the Accretion Disk of aa Black Hole? - Scienceinsights.](https://scienceinsights.org/what-is-the-accretion-disk-of-a-black-hole/)
+- [O que é um buraco negro? - National Geographic Brasil.](https://www.nationalgeographicbrasil.com/espaco/2024/07/o-que-e-um-buraco-negro)
+- [O que é a singularidade, o coração dos buracos negros onde todas as leis da natureza são quebradas - BBC News Brasil.](https://www.bbc.com/portuguese/geral-54462160)
+- [Event horizon - Britannica.](https://www.britannica.com/topic/event-horizon-black-hole)
