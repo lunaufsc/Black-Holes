@@ -12,7 +12,7 @@ Antes mesmo de conseguirmos produzir uma imagem de sua região próxima, os astr
 
 Em 2022, o Event Horizon Telescope divulgou a primeira imagem de Sagitário A\*. O que aparece na imagem não é o buraco negro propriamente dito, já que ele não emite luz. A região escura no centro corresponde à sua sombra, enquanto o brilho ao redor vem do material extremamente quente que gira próximo a ele.
 
-![Sagitário A*](./../figures/sagiA.jpg)
+![Sagitário A*](../../figures/sagiA.jpg)
 
 *Imagem de Sagitário A\*, o buraco negro supermassivo localizado no centro da Via Láctea. Crédito: EHT Collaboration.*
 
@@ -36,7 +36,7 @@ Alguns buracos negros supermassivos produzem ventos e enormes jatos de partícul
 
 Um exemplo muito conhecido acontece na galáxia **Messier 87 (M87)**. No centro dela existe um buraco negro supermassivo com cerca de 6,5 bilhões de vezes a massa do Sol. A atividade em sua região central está associada a um enorme jato de plasma que se estende por milhares de anos-luz.
 
-![Galáxia M87 e seu jato](./../figures/m87_jato.jpg)
+![Galáxia M87 e seu jato](../../figures/m87_jato.jpg)
 
 *Galáxia M87 observada pelo telescópio Hubble. O jato azul e branco parte da região central da galáxia, onde está localizado o buraco negro supermassivo M87\*. Crédito: NASA, ESA e STScI.*
 
